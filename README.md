@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Yasir Khan, a java backend software developer. I'm currently Working as Intern at Evamp & Saanga. 
+
 <!--
 **Yasirkhan787/Yasirkhan787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
