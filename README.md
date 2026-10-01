@@ -1,7 +1,7 @@
 # Hi there, I'm Yasir Khan 👋
 
 ### Software Engineer — Backend & Distributed Systems
-**Intern at Evamp & Saanga** | **BSCS @ FUUAST (3x Highest GPA Award)**
+**Intern at Evamp & Saanga** | **BSCS FUUAST**
 
 I design and build fault-tolerant **Java & Spring Boot** microservices, high-throughput event-driven pipelines, and spatial backend architectures. My engineering work focuses on decoupling complex domains using asynchronous messaging, optimizing read/write performance with distributed caching and full-text search engines, and enforcing strict security at the API gateway boundary.
 
@@ -47,14 +47,6 @@ An end-to-end distributed microservice ecosystem engineered for real-time fleet 
 * **Spatial & Low-Latency Persistence:** Powered by **PostgreSQL + PostGIS** for geofencing and route computation, **Redis** for distributed caching, and **OpenSearch** for fast indexing.
 * **Resilience & Gateway Security:** Centralized **Spring Security (JWT/OAuth2 & RBAC)** at the API Gateway with **Resilience4j** circuit breakers, rate limiters, and retries across **Dockerized** nodes.
 
-**Core WTMS Microservice Repositories:**
-* 🌐 [`WTMS_API_GATEWAY`](https://github.com/Yasirkhan787/WTMS_API_GATEWAY) — Centralized entry point handling request routing, JWT/OAuth2 validation, and Resilience4j fault tolerance.
-* 🧭 [`WTMS_EUREKA_SERVER`](https://github.com/Yasirkhan787/WTMS_EUREKA_SERVER) — Spring Cloud Netflix Eureka server for dynamic service discovery and health monitoring.
-* 🔐 [`WTMS_AUTH_SERVICE`](https://github.com/Yasirkhan787/WTMS_AUTH_SERVICE) — Dedicated authentication microservice managing stateless JWT issuance, OAuth2 flows, and RBAC.
-* 👤 [`WTMS_USER_SERVICE`](https://github.com/Yasirkhan787/WTMS_USER_SERVICE) — User & role lifecycle microservice with Spring Data JPA Specifications, DTO validation, and Redis caching.
-
----
-
 ### 📫 Connect With Me
-* **LinkedIn:** [Add Your LinkedIn URL Here]
+* **LinkedIn:** www.linkedin.com/in/Yasirkh398
 * **Location:** Islamabad, Pakistan
